@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile
 
 <!--
-**jenefferf/jenefferf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jenefferf/jenefferf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Jeneffer, but you can call me Jene, and...:
 
