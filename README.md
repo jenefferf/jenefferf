@@ -5,7 +5,6 @@
 
 My name is Jeneffer, but you can call me Jene, and...:
 
-- 🔭 I’m currently looking for a internship in data engineering 
 - :books:I'm a student of telecommunications engineering
 - 🌱 I’m currently learning about data engineering,
 - 😄 I like to read books of different themes, going through terror, dystopias, even science and politics 
